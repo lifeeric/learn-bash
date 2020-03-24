@@ -2,9 +2,9 @@
 
 ![image](./clean.gif)
 
-![image]("./cc.gif")
+![image2]("./cc.gif")
 
-![image]("./menu-fun.gif")
+![image3]("./menu-fun.gif")
 
 
 Learn How to Ask for Confirmation  duration installion or, deleting, whatever
