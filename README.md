@@ -4,7 +4,7 @@
 
 ![image](./cc.sh)
 
-![image](./menu.gif)
+![image](./menu-fun.gif)
 
 
 Learn How to Ask for Confirmation  duration installion or, deleting, whatever
